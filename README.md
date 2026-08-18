@@ -29,9 +29,15 @@
 | 🍃800G-渠道 | 3273.00 |  800GB | 30天，到期清零   | 10台设备 | 无限制  | 渠道专用、IPLC移动优化专线、ChatGPT解锁、50万资源Emby+69云基础服、奈飞/流媒体解锁、YouTube 4K |
 
 ## 📊 性能实测与分析
-#### 1.晚高峰测速表现
-![image](?raw=ture)</br>
+#### 1.1联通晚高峰测速表现
+![image](https://github.com/jdnei/69yun/blob/main/69yun/09475093245098cucc.jpg?raw=ture)</br>
+#### 1.2电信晚高峰测速表现
+![image](https://github.com/jdnei/69yun/blob/main/69yun/4052734095ctcc.jpg?raw=ture)</br>
+#### 1.3移动晚高峰测速表现
+![image](https://github.com/jdnei/69yun/blob/main/69yun/452093450cmcc.jpg?raw=ture)</br>
 #### 2.流媒体解锁报告
-![image](?raw=ture)</br>  
-#### 3.落地入口分析
-![image](?raw=ture)</br>
+![image](https://github.com/jdnei/69yun/blob/main/69yun/4305820934test.png?raw=ture)</br>
+#### 3.AI解锁报告
+![image](https://github.com/jdnei/69yun/blob/main/69yun/094385203945098432ai.jpg?raw=ture)</br>  
+#### 4.落地入口分析
+![image](https://github.com/jdnei/69yun/blob/main/69yun/4057230945ana.png?raw=ture)</br>
