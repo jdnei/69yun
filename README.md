@@ -1,9 +1,9 @@
 
 # 69Yun 69云官方地址(2026年8月18日更新)
 69Yun 69云官网地址</br>
-最新地址01：[china.69yun69.net](https://china.69yun69.net/auth/register?code=zvz0DY)</br>
-最新地址02：[69yun69.net](https://69yun69.net/auth/register?code=zvz0DY)</br>
-官方地址：[69yun69.com](https://69yun69.com/auth/register?code=zvz0DY)</br>
+最新地址01：[china.69yun69.net](https://to.iix.im/6903)</br>
+最新地址02：[69yun69.net](https://to.iix.im/6902)</br>
+官方地址：[69yun69.com](https://to.iix.im/6901)</br>
 
 2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
 ## Telegram VPN 机场福利社 #AD
