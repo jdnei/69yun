@@ -1,6 +1,6 @@
 
-# 69Yun 69云官方地址(2026年9月18日更新)
-69Yun 69云官网地址</br>
+# 69Yun 69云机场官方地址(2026年9月18日更新)
+69Yun 69云机场官网地址</br>
 最新地址01：[china.69yun69.net](https://to.iix.im/6903)</br>
 最新地址02：[69yun69.net](https://to.iix.im/6902)</br>
 官方地址：[69yun69.com](https://to.iix.im/6901)</br>
