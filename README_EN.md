@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# 69Yun VPN Official Website (Updated November 6, 2026)
+# 69Yun VPN Official Website (Updated November 7, 2026)
 
 Official 69Yun VPN Website<br>
 Latest URL 01: [china.69yun69.net](https://to.iix.im/6903)<br>
