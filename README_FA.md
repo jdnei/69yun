@@ -1,6 +1,6 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
 
-# وب‌سایت رسمی 69Yun VPN(به‌روزرسانی 9 نوامبر 2026)
+# وب‌سایت رسمی 69Yun VPN(به‌روزرسانی 10 نوامبر 2026)
 وب‌سایت رسمی 69Yun VPN<br>
 آخرین آدرس ۰۱: [china.69yun69.net](https://to.iix.im/6903)<br>
 آخرین آدرس ۰۲: [69yun69.net](https://to.iix.im/6902)<br>
